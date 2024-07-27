@@ -1,1 +1,1 @@
-# The-Art-of-Doing_Store_Front_Project
+# The-Art-of-Doing-Projects
